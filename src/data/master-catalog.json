@@ -1,0 +1,6926 @@
+[
+  {
+    "barcode": "711844110137",
+    "name": "ABC Kecap Manis Pouch 600ml",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "711844120037",
+    "name": "ABC Sambal Asli Botol 135ml",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999918451085",
+    "name": "AIM ANEKA ASSORTED 1000GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918451078",
+    "name": "AIM ANEKA ASSORTED 180GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918451214",
+    "name": "AIM ANEKA ASSORTED 350GR KLG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918282887",
+    "name": "AIM BANANA CREAM M BEDA 120GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918182286",
+    "name": "AIM BISC VEGETABLE 180GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918441390",
+    "name": "AIM BISC VEGETABLE 80GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918181883",
+    "name": "AIM BISK SQUARE PUFF 250G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918451351",
+    "name": "AIM BISKUIT KELAPA MUDA 250GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918183085",
+    "name": "AIM BUTTER COCONUT 120GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918182989",
+    "name": "AIM CHEESE CRACK 80G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918451382",
+    "name": "AIM CHOCO CREAM 180",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918181388",
+    "name": "AIM CHOCO CREAM M BEDA 120GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918585223",
+    "name": "AIM COCOA PUFF 200",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918181180",
+    "name": "AIM CORN CRACK 180G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918181289",
+    "name": "AIM CORN CRACK 80G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918441284",
+    "name": "AIM CREAM CRACKERS M BEDA 85GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918181685",
+    "name": "AIM CRYSPI CRACK 150G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918441406",
+    "name": "AIM CRYSPI CRACK 45G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918441208",
+    "name": "AIM GOOD MORNING WAFER 100G",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918411010",
+    "name": "AIM GOOD MORNING WAFER 300GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918441376",
+    "name": "AIM GOOD SQUARE PUFF 85GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918182781",
+    "name": "AIM LEMON CREAM M BEDA 120GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918451276",
+    "name": "AIM LOVER COKLAT 550",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918451412",
+    "name": "AIM LOVER COKLAT 80",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918451429",
+    "name": "AIM LOVER STR 80",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918451283",
+    "name": "AIM LOVER STRW WAFER 550",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918585193",
+    "name": "AIM MILK COOKIES 250",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918383980",
+    "name": "AIM PEANUT BUTTER 70G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918435023",
+    "name": "AIM RASA COCONUT 350GR KLG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918435016",
+    "name": "AIM RASA DURIAN 350GR KLG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918181081",
+    "name": "AIM ROASTED CHICKEN CRACK 180",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918451221",
+    "name": "AIM ROASTED CORN 150GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918451375",
+    "name": "AIM ROSE CREAM 180",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918451016",
+    "name": "AIM SEE HONG PUFF 230GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918182187",
+    "name": "AIM TOASTY CHEESE 180G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918441383",
+    "name": "AIM TOASTY CHEESE CRACK 30GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918182682",
+    "name": "AIM VANILLA CREAM BISK",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8998866300025",
+    "name": "Ale-Ale Rasa Anggur Cup 180ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "cup"
+  },
+  {
+    "barcode": "8998866300018",
+    "name": "Ale-Ale Rasa Jeruk Cup 180ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "cup"
+  },
+  {
+    "barcode": "8998866300032",
+    "name": "Ale-Ale Rasa Stroberi Cup 180ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "cup"
+  },
+  {
+    "barcode": "8999918383188",
+    "name": "ANEKA BISK CREAM CRACKER 300G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918443509",
+    "name": "ANEKA BISK SQUARE PUFF 300G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8998888020020",
+    "name": "Antangin JRG Cair Deltomed Sachet 15ml",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8886008101091",
+    "name": "Aqua Air Mineral Botol 1500ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8886008101053",
+    "name": "Aqua Air Mineral Botol 600ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8886008101336",
+    "name": "Aqua Air Mineral Botol Mini 330ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999979000611",
+    "name": "BANGKU DAPUR LION STAR G-3 SGR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999100506",
+    "name": "Bango Kecap Manis Botol / Pouch 600ml",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "8999999514600",
+    "name": "Bango Kecap Manis Pouch 220ml",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "8999999514617",
+    "name": "Bango Kecap Manis Pouch 400ml",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "8999999514594",
+    "name": "Bango Kecap Manis Sachet Rp 2.000",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999988168876",
+    "name": "BAPALA BALS PALA KUNING 20G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988168869",
+    "name": "BAPALA BALS PALA KUNING 36G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988168210",
+    "name": "BAPALA BALS PALA MERAH 20G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988168203",
+    "name": "BAPALA BALS PALA MERAH 36G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988168814",
+    "name": "BAPALA BALS PALA UNGU/PTH 20G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988168807",
+    "name": "BAPALA BALS PALA UNGU/PTH 36G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "7613035314015",
+    "name": "Bear Brand Susu Steril Kaleng 189ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "kaleng"
+  },
+  {
+    "barcode": "8996001354124",
+    "name": "Beng-Beng Wafer Cokelat Karamel 25g",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8996001318430",
+    "name": "Better Sandwich Biskuit Krim Vanila 22g",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992628031158",
+    "name": "Bimoli Minyak Goreng Pouch 1 Liter",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "8992628032155",
+    "name": "Bimoli Minyak Goreng Pouch 2 Liter",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "8993169221008",
+    "name": "Bimoli Minyak Goreng Spesial Pouch 2L",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "8999918451207",
+    "name": "BISCUIT TRIF-TI 3IN1 120GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999198893",
+    "name": "BLUE BAND 1KG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999197070",
+    "name": "BLUE BAND 2 KG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999198862",
+    "name": "BLUE BAND 200G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999197049",
+    "name": "BLUE BAND 250G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908285003",
+    "name": "BODREX EXTRA 25",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999908057709",
+    "name": "Bodrex Flu & Batuk Berdahak 4 Kaplet",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999908250803",
+    "name": "BODREX FLU & BATUK BERDAHAK 60",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999908192509",
+    "name": "BODREX FLU&BATUK 10 S",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999908071903",
+    "name": "BODREX MIGRA 4KAPLET",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999908000200",
+    "name": "Bodrex Obat Sakit Kepala 20 Tablet",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999908000705",
+    "name": "Bodrexin Anak 20 Tablet Kunyah",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999908072207",
+    "name": "BODREXIN EFFERVECENT 2GR",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999908209702",
+    "name": "BODREXIN FLU&BATUK 56ML SYRUP",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999908058102",
+    "name": "BODREXIN SRP JR MANIS 56ML",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999999700355",
+    "name": "BRISK BY CLEAR AD 250 GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999700317",
+    "name": "BRISK HAIR CREAM DANRUF 100G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999283018",
+    "name": "CANELLO CLASSICO VANILA 110ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908049100",
+    "name": "CHARLIE DEO ROLL ON RED 50M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908031303",
+    "name": "CHARLIE DEO STICK ORIGIN 40G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908049001",
+    "name": "CHARLIE ROLL ON DEO BLUE 50M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908049308",
+    "name": "CHARLIE ROLL ON DEO GOLD 50M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908049209",
+    "name": "CHARLIE ROLL ON DEO WHITE 50M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "089686040012",
+    "name": "Chitato Keripik Kentang Sapi Panggang 68g",
+    "category": "Jajan & Snack",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999908058706",
+    "name": "CLAUDIA BEAUTY + APPLE 80GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908058607",
+    "name": "CLAUDIA BEAUTY + LEMON 80GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908058805",
+    "name": "CLAUDIA BEAUTY + PEACH 80GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908009203",
+    "name": "CLAUDIA BEAUTY HIJAU 80G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908009401",
+    "name": "CLAUDIA BEAUTY PINK 80G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908009302",
+    "name": "CLAUDIA BEAUTY WHITE 80G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908267009",
+    "name": "CLAUDIA SHOWER LOT CREAMY 200M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908266804",
+    "name": "CLAUDIA SHOWER LOT SILKY 200ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908266903",
+    "name": "CLAUDIA SHOWER LOT SUNCARE 200",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908071309",
+    "name": "CLAUDIA SOAP BIRU 4+KOTAK SBN",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908070906",
+    "name": "CLAUDIA SOAP PINK 4+KOTAK SBN",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999000639",
+    "name": "CLEAR HAIR STYLING CREAM 250",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999700096",
+    "name": "CLEAR STYLING GEL HARD 50GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273392",
+    "name": "CONELLO BLACK ROYAL 135",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273453",
+    "name": "CONELLO CLASSICO TIRAMISU",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273385",
+    "name": "CONELLO ROYALE LY BERRY MUCH",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999278458",
+    "name": "CONELO DISC VAN",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273378",
+    "name": "CONERLLO CHOCOLUV 135",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908039002",
+    "name": "CONTREX OBAT FLU 4 TABLET",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999908039101",
+    "name": "CONTREXYN R JERUK 4TAB",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988330228",
+    "name": "DELIPO SANZHA PLUM 200ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992759200044",
+    "name": "Desaku Bumbu Balado Sachet",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8992759200037",
+    "name": "Desaku Ketumbar Bubuk Murni Sachet",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8992759200020",
+    "name": "Desaku Kunyit Bubuk Murni Sachet",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999908056603",
+    "name": "DIACYL TABLET 4 TABLET",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8992770100029",
+    "name": "Diapet Obat Diare Herbal 4 Kapsul",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8998989110044",
+    "name": "Djarum 76 Kretek 12 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998989110037",
+    "name": "Djarum Coklat Kretek 12 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998989110013",
+    "name": "Djarum Super 12 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998989110020",
+    "name": "Djarum Super 16 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "899990912097",
+    "name": "DJI SAM SOE 10",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909010567",
+    "name": "DJI SAM SOE 16",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909034570",
+    "name": "DJI SAM SOE 16 TUBE",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909706699",
+    "name": "DJI SAM SOE FILTER 12",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909003880",
+    "name": "DJI SAM SOE GOLD 12",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909028234",
+    "name": "Dji Sam Soe Kretek 234 Kuning 12 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909001909",
+    "name": "DJI SAM SOE MAGNUM FILTER 12",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909028241",
+    "name": "Dji Sam Soe Magnum Filter 12 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909002296",
+    "name": "DJI SAM SOE MASTERPIECE 12",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909002647",
+    "name": "DJI SAM SOE MASTERPIECE 12",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909957565",
+    "name": "DJI SAM SOE SUPER PERMIUM 12",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909028999",
+    "name": "DJI SAM SOE SUPER PERMIUM RFL",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909012097",
+    "name": "DJI SAMSOE 10",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999409791",
+    "name": "DOMESTOS FRESH 1000ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999409784",
+    "name": "DOMESTOS FRESH 500ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999409814",
+    "name": "DOMESTOS LEMON 1000ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999409777",
+    "name": "DOMESTOS NOMOS 5 PSG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999410049",
+    "name": "DOMESTOS NOMOS 5 PSG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999409951",
+    "name": "DOMESTOS NOMOS 6X5 PS",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999406219",
+    "name": "DOMESTOS NOMOS 6X5 PSG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999409708",
+    "name": "DOMESTOS NOMOS JUMBO 5 PSG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999409715",
+    "name": "DOMESTOS NOMOS JUMBO 5 PSG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999409906",
+    "name": "DOMESTOS NOMOS JUMBO 5PSG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999410032",
+    "name": "DOMESTOS NOMOS JUMBO 5PSG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999406240",
+    "name": "DOMESTOS NOMOS LAVENDER",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999406233",
+    "name": "DOMESTOS NOMOS LAVENDER 5PSG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999409869",
+    "name": "DOMESTOS NOMOS NYAMUK BAKAR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999409883",
+    "name": "DOMESTOS TRISOL 400ML RFL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999409890",
+    "name": "DOMESTOS TRISOL 800ML RFL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999409913",
+    "name": "DOMESTOS WIPOL 900ML RFL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407889",
+    "name": "DOMESTOS WIPOL CLASSIC 900M RF",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407896",
+    "name": "DOMESTOS WIPOL KARBOL 450ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407841",
+    "name": "DOMESTOS WIPOL LEMON 800ML BTL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407858",
+    "name": "DOMESTOS WIPOL LEMON 800ML RFL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999510855",
+    "name": "DOVE CREAM BAR SOAP SPES SET",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999510794",
+    "name": "DOVE FACIAL FOAM MOIST CR 100M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999510787",
+    "name": "DOVE FACIAL FOAM MOIST CR 50ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999988269283",
+    "name": "ENA O ENERGY DRINK 150M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988269689",
+    "name": "ENA O ENERGY DRINK 238 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988269290",
+    "name": "ENAE O ENERGY DRINK 150 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988269177",
+    "name": "ENAO FOOD SUPPLEMENT 4GR SCT",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988269160",
+    "name": "ENAO FOOD SUPPLEMENT 6SCT 4G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988289670",
+    "name": "ENERBEE PLUS ENERGI DRINK 250M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8996001301012",
+    "name": "Energen Cereal & Susu Cokelat 30g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8996001301043",
+    "name": "Energen Cereal & Susu Jahe 30g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8996001301036",
+    "name": "Energen Cereal & Susu Kacang Hijau 30g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8996001301029",
+    "name": "Energen Cereal & Susu Vanila 30g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8801116010012",
+    "name": "Esse Change Menthol Pop 20 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999979018227",
+    "name": "EXELLENT SPRAY ANT NYAMUK",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992759110015",
+    "name": "Extra Joss Active B-Complex Sachet",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999908051806",
+    "name": "F & N ANGGUR 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908051608",
+    "name": "F & N BUAH-BUAHAN 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908006400",
+    "name": "F & N COFFEE CREAM 330ML",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999908006806",
+    "name": "F & N KRIM SODA 330ML",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999908006509",
+    "name": "F & N ORANGE 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908006707",
+    "name": "F & N SARSI 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908006301",
+    "name": "F & N SODA WATER 330 ML",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999908006608",
+    "name": "F & N STRAWB 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908006905",
+    "name": "F & N TONIC WATER 330ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908051707",
+    "name": "F & N ZAPPEL 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8998866300100",
+    "name": "Floridina Minuman Jus Jeruk Pulir 350ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999908000903",
+    "name": "FLUCYL 4TAB",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908001108",
+    "name": "FLUCYL SIRUP 60 ML",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8992753102204",
+    "name": "Frisian Flag Bendera Susu Kental Manis Cokelat Kaleng 370g",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "kaleng"
+  },
+  {
+    "barcode": "8992753101207",
+    "name": "Frisian Flag Bendera Susu Kental Manis Putih Kaleng 370g",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "kaleng"
+  },
+  {
+    "barcode": "8992753102211",
+    "name": "Frisian Flag Susu Kental Manis Cokelat Sachet 38g",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8992753102006",
+    "name": "Frisian Flag Susu Kental Manis Putih Sachet 38g",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8991002103252",
+    "name": "Good Day Carrebian Nut 20g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8991002103214",
+    "name": "Good Day Chococinno 20g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8991002103245",
+    "name": "Good Day Coolin Coffee Mint 20g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8991002103238",
+    "name": "Good Day Mocacinno 20g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8991002103221",
+    "name": "Good Day Vanilla Latte 20g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8998989100120",
+    "name": "Gudang Garam Filter Merah 12 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998989100175",
+    "name": "Gudang Garam Surya 12 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998989100168",
+    "name": "Gudang Garam Surya 16 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8992727002714",
+    "name": "Gulaku Gula Tebu Kuning Premium 1kg",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8992727002721",
+    "name": "Gulaku Gula Tebu Putih Murni 1kg",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999999418205",
+    "name": "HALO HANDSOAP APPLE PUMP 320M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999418229",
+    "name": "HALO HANDSOAP LEMON PUMP 320M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999418236",
+    "name": "HALO HANDSOAP STRAW PUMP 320M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992763100023",
+    "name": "Hansaplast Plester Luka Standar Isi 10",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999999682026",
+    "name": "HAZELIN SNOW 50 GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999682729",
+    "name": "HAZELIN WHIT/NATURAL 50 GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999682354",
+    "name": "HAZELINE DEEP CLEANS GEL 120G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999682118",
+    "name": "HAZELINE SNOW F YOUR DEL SK 30",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999682712",
+    "name": "HAZELINE WHI&NAT MOIS CR 20G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988298986",
+    "name": "HEADACHE POWD KAKI TIGA 12SCT",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908286109",
+    "name": "HEMAFITON ENERGY RASA ANGGUR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908300607",
+    "name": "HEMAVITO COFFEE CREAM 330 ML",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999908210005",
+    "name": "HEMAVITON ACTION 5 S",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908260802",
+    "name": "HEMAVITON C1000 150ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908260710",
+    "name": "HEMAVITON C1000 5SCTX4GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908056207",
+    "name": "HEMAVITON CAP 5 S",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908218902",
+    "name": "HEMAVITON E DRINK COLA 330ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908059307",
+    "name": "HEMAVITON ECHINACEA + 4GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908059208",
+    "name": "HEMAVITON ECHINACEA PLUS",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908059314",
+    "name": "HEMAVITON ECHINACEA PLUS 10SCT",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908034205",
+    "name": "HEMAVITON ENERGI DRINK 150 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908285904",
+    "name": "HEMAVITON ENERGY ANGGUR 150ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908218803",
+    "name": "HEMAVITON ENERGY DRINK 330ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908059109",
+    "name": "HEMAVITON HEALTH DRINK 150ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908045812",
+    "name": "HEMAVITON JRENG 4G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908270702",
+    "name": "HEMAVITON JRENG ANGGUR 4GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908270801",
+    "name": "HEMAVITON JRENG ANGGUR 6 SCT",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908045805",
+    "name": "HEMAVITON JRENG BOX 10X4 GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908206800",
+    "name": "HEMAVITON JRENG COLA 10X4GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908207005",
+    "name": "HEMAVITON JRENG LEMON 10X4GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908207104",
+    "name": "HEMAVITON JRENG LEMON 4GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908271006",
+    "name": "HEMAVITON JRENG LEMON 6 SCT",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908217400",
+    "name": "HEMAVITON JRENG MANGGA 4GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908271204",
+    "name": "HEMAVITON JRENG MANGGA 6 SCT",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908296108",
+    "name": "HEMAVITON SKIN NUTRIENT 5 KAP",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908205506",
+    "name": "HEMAVITON STAMINA PLUS 5S",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988001029",
+    "name": "HI O2 320 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988001036",
+    "name": "HI O2 320ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908058003",
+    "name": "HORMOVITON GRENG SACHET",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992725910615",
+    "name": "Indocafe Coffeemix 3 in 1 20g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "089686386011",
+    "name": "Indofood Racik Bumbu Ayam Goreng 26g",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "089686386042",
+    "name": "Indofood Racik Bumbu Ikan Goreng 20g",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "089686386028",
+    "name": "Indofood Racik Bumbu Sayur Asem 33g",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "089686386035",
+    "name": "Indofood Racik Bumbu Sayur Sop 20g",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "089686386219",
+    "name": "Indofood Racik Bumbu Tumis 22g",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "089686043433",
+    "name": "Indomie Hype Abis Ayam Geprek 85g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "0089686010015",
+    "name": "Indomie Kuah Rasa Ayam Bawang 69g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "089686010015",
+    "name": "Indomie Kuah Rasa Ayam Bawang 69g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998866100700",
+    "name": "Indomie Kuah Rasa Ayam Bawang 69g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "089686010107",
+    "name": "Indomie Kuah Rasa Kaldu Ayam 65g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "0089686010527",
+    "name": "Indomie Kuah Rasa Kari Ayam 72g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "089686010527",
+    "name": "Indomie Kuah Rasa Kari Ayam 72g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998866100724",
+    "name": "Indomie Kuah Rasa Kari Ayam 72g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "0089686010343",
+    "name": "Indomie Kuah Rasa Soto Mie 70g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "089686010343",
+    "name": "Indomie Kuah Rasa Soto Mie 70g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998866100717",
+    "name": "Indomie Kuah Rasa Soto Mie 70g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "089686010824",
+    "name": "Indomie Mi Goreng 80g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "089686041705",
+    "name": "Indomie Mi Goreng Jumbo 129g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "0089686010718",
+    "name": "Indomie Mi Goreng Rasa Cabe Ijo 85g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "089686043204",
+    "name": "Indomie Mi Goreng Rasa Mi Aceh 90g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "0089686910704",
+    "name": "Indomie Mi Goreng Rasa Rendang 91g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "089686010947",
+    "name": "Indomie Mi Goreng Spesial 85g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "0089686010947",
+    "name": "Indomie Mi Goreng Spesial 85g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8851111400126",
+    "name": "Indomilk Kental Manis Cokelat Kaleng 370g",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "kaleng"
+  },
+  {
+    "barcode": "8999988188188",
+    "name": "KAKI 3 BALSEM HIJAU 36GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988888989",
+    "name": "KAKI TIGA 200 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988888972",
+    "name": "KAKI TIGA 500 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988888859",
+    "name": "KAKI TIGA ANGGUR 320 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988888804",
+    "name": "KAKI TIGA APEL 320 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988188898",
+    "name": "KAKI TIGA BALS HIJAU 10G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988188881",
+    "name": "KAKI TIGA BALS HIJAU 20GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988288284",
+    "name": "KAKI TIGA BALS KUNING 10G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988288888",
+    "name": "KAKI TIGA BALS KUNING 36GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988688688",
+    "name": "KAKI TIGA BALS PUTIH 36G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988888842",
+    "name": "KAKI TIGA JAMBU 320 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988888811",
+    "name": "KAKI TIGA JERUK 320 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988888866",
+    "name": "KAKI TIGA LECI 320 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988888835",
+    "name": "KAKI TIGA MELON 320 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988388687",
+    "name": "KAKI TIGA OBAT KURAP",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999988388182",
+    "name": "KAKI TIGA SALEP KULIT",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988888828",
+    "name": "KAKI TIGA STARWB 320 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988288895",
+    "name": "KAKI TIKA BALS KUNING KC 20GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992741982011",
+    "name": "Kara Santan Kelapa Siap Pakai 65ml",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "kotak"
+  },
+  {
+    "barcode": "8999999100353",
+    "name": "KECAP BANGGO MANIS 100ML",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999101183",
+    "name": "KECAP BANGO MANIS REFIL 110 ML",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999101190",
+    "name": "KECAP BANGO MANIS REFIL 225 ML",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8998866400015",
+    "name": "Kecap Sedaap Kedelai Hitam Pouch 550ml",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "8999999091347",
+    "name": "KNORR BUMBU KUAH BAKSO 8GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8991002101616",
+    "name": "Kopi ABC Plus Gula 30g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8991002101630",
+    "name": "Kopi ABC Susu 31g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8991002105430",
+    "name": "Kopi Kapal Api Mantap Kopi + Gula 25g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8991002105416",
+    "name": "Kopi Kapal Api Spesial 165g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8991002105409",
+    "name": "Kopi Kapal Api Spesial 65g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8991002105423",
+    "name": "Kopi Kapal Api Spesial Mix 24g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8992753124018",
+    "name": "Kopi Tubruk Gadjah Asli 150g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8992753124025",
+    "name": "Kopi Tubruk Gadjah Manis 25g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8998888010113",
+    "name": "Kuku Bima Ener-G Rasa Anggur Sachet",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "76239878",
+    "name": "L.A. Lights Filter 16 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8992759200013",
+    "name": "Ladaku Merica Bubuk Murni Sachet",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999988318707",
+    "name": "LANG-LANG SARI STRAWB 8X7G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778983",
+    "name": "LASEGAR 200 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778594",
+    "name": "LASEGAR 24X24HGR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778976",
+    "name": "LASEGAR 500 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778853",
+    "name": "LASEGAR ANGGUR 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778808",
+    "name": "LASEGAR APEL 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778846",
+    "name": "LASEGAR JAMBU 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778815",
+    "name": "LASEGAR JERUK 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778884",
+    "name": "LASEGAR JERUK NIPIS 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778860",
+    "name": "LASEGAR LECI 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778839",
+    "name": "LASEGAR MELON 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778686",
+    "name": "LASEGAR PLUS JERUK NIPIS 7GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778679",
+    "name": "LASEGAR PLUS JRK NIPIS 7GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778570",
+    "name": "LASEGAR PLUS RASA JERUK 7GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999988778822",
+    "name": "LASEGAR STRAWBERI 330 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8996001600276",
+    "name": "Le Minerale Air Mineral Botol 1500ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8996001600269",
+    "name": "Le Minerale Air Mineral Botol 600ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8996001600252",
+    "name": "Le Minerale Air Mineral Botol Mini 330ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999001247",
+    "name": "LIF BW BIRU 100 BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001216",
+    "name": "LIF BW BIRU 100BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001131",
+    "name": "LIF BW BIRU 300 BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001162",
+    "name": "LIF BW BIRU 300 BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001223",
+    "name": "LIF BW GREEN 100 BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001148",
+    "name": "LIF BW GREEN 300 BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001230",
+    "name": "LIF BW RED 100 BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001155",
+    "name": "LIF BW RED 300 BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001032",
+    "name": "LIF HWL ACTIVFRESH 180 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001056",
+    "name": "LIF HWL BLUE 180 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001070",
+    "name": "LIF HWL RED PUMP 200 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001049",
+    "name": "LIF HWL TOTALPROTECT 180 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001087",
+    "name": "LIF HWL WHITE 200 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001179",
+    "name": "LIFEBOUY BW ACTIVFRESH 450 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001209",
+    "name": "LIFEBOUY BW MILDCARE 450 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999005498",
+    "name": "LIFEBOUY SHP STRONG&SHINY 90 M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393540",
+    "name": "LIFEBOY BODY WASH M CARE 250",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999399238",
+    "name": "LIFEBOY BODY WASH M CARE 450",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393878",
+    "name": "LIFEBOY BODY WASH ORIGINAL 250",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393922",
+    "name": "LIFEBOY BODY WASH ORIGINAL 300",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392581",
+    "name": "LIFEBOY BODY WASH RED 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999399207",
+    "name": "LIFEBOY BODY WASH TOTAL P 450",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392543",
+    "name": "LIFEBOY BODY WASH WHITE 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393892",
+    "name": "LIFEBOY BODY WASH WHITE 300",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393908",
+    "name": "LIFEBOY DEEP CLEAN BW 300 RED",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999418328",
+    "name": "LIFEBOY HAND WASH MC 180R",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999418281",
+    "name": "LIFEBOY HAND WASH MILDCARE 200",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999418335",
+    "name": "LIFEBOY HAND WASH TP 180R",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999418311",
+    "name": "LIFEBOY HAND WASH TP 200",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001186",
+    "name": "LIFEBOY NATUREPURE BW 450ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001100",
+    "name": "LIFEBOYNATUREPURE 250ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999395520",
+    "name": "LIFEBUOY ACTIFRESH 85GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392598",
+    "name": "LIFEBUOY B WASH NATUREPURE 100",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393069",
+    "name": "LIFEBUOY BD WASH BLUE 250M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393021",
+    "name": "LIFEBUOY BD WASH RED 250M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392796",
+    "name": "LIFEBUOY BD WASH RED 300M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390891",
+    "name": "LIFEBUOY BIRU 90G",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393526",
+    "name": "LIFEBUOY BODY WASH D CLEAN 100",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999398859",
+    "name": "LIFEBUOY BODY WASH D CLEAN 450",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393915",
+    "name": "LIFEBUOY BODY WASH NATUR P 300",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999399276",
+    "name": "LIFEBUOY BODY WASH NATUR P 450",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999001124",
+    "name": "LIFEBUOY BW MILDCARE 250 ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999397333",
+    "name": "LIFEBUOY CAIR HEALTY CARE 450M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391539",
+    "name": "LIFEBUOY CLEAR SKIN 80GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393748",
+    "name": "LIFEBUOY DEEP CLEAN 250 ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999418267",
+    "name": "LIFEBUOY HANDWASH RED 250ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999418274",
+    "name": "LIFEBUOY HANDWASH RED 320ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999418243",
+    "name": "LIFEBUOY HANDWASH WHITE 250ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999418250",
+    "name": "LIFEBUOY HANDWASH WHITE 320ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999398835",
+    "name": "LIFEBUOY HEALTHY CARE 300ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999396916",
+    "name": "LIFEBUOY HEALTHY CLEAN 300ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999398828",
+    "name": "LIFEBUOY HEALTHY CLEAN 300ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999391270",
+    "name": "LIFEBUOY HEALTHY FRESH 300ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999396886",
+    "name": "LIFEBUOY HEALTY CLEAN 100ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999391850",
+    "name": "LIFEBUOY HIJAU 70GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390914",
+    "name": "LIFEBUOY HIJAU 90G",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390907",
+    "name": "LIFEBUOY KUNING 90G",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390884",
+    "name": "LIFEBUOY MERAH 90G",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393953",
+    "name": "LIFEBUOY MILDCARE 85GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393847",
+    "name": "LIFEBUOY NATUREPURE 250ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999394523",
+    "name": "LIFEBUOY NATUREPURE 85GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391867",
+    "name": "LIFEBUOY PINK 70GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392819",
+    "name": "LIFEBUOY SURE PINK 90 GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394486",
+    "name": "LIFEBUOY TOTALPROTECT 85GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979023504",
+    "name": "LION STAR CLEAN PAL 1,2L C-36",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979011778",
+    "name": "LION STAR CREAM POT PT-14",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979004411",
+    "name": "LION STAR CUP W/STRAW GL-12",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979009898",
+    "name": "LION STAR FOOD CARR 15K 4S R10",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979016247",
+    "name": "LION STAR FRESH SEALWARE SW-30",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979020961",
+    "name": "LION STAR GL-65 SOLO MUG 250ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979004282",
+    "name": "LION STAR HANGER 20 STK",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979016322",
+    "name": "LION STAR JOVI MUG 231 GL-38",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979016445",
+    "name": "LION STAR JOVI MUG 331 GL-39",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979005470",
+    "name": "LION STAR KITCHEN SCA 5K KS-3",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979004268",
+    "name": "LION STAR LAUNDRY CLIPS JB-1",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979022491",
+    "name": "LION STAR LIVINA BROOM BM-333",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979016308",
+    "name": "LION STAR N-16 JOLLY BTL 500ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979019071",
+    "name": "LION STAR N-67 KENY BTL 550ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979017824",
+    "name": "LION STAR N-75 POP BTL 500ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979023344",
+    "name": "LION STAR NN-12 POCCA BTL 500M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979024280",
+    "name": "LION STAR NN-15 MASKY BTL 500M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979000956",
+    "name": "LION STAR NS-1 SNOWMAN BTL 430",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979011044",
+    "name": "LION STAR PLATE DELUXE TS-7",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979000017",
+    "name": "LION STAR ROUND BASIN 10 BA-1",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979018531",
+    "name": "LION STAR STRAW CUP S GL-33",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979002547",
+    "name": "LION STAR SUN COOLER 2,7 SC-1",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979023450",
+    "name": "LION STAR TISSUE DISP S TR-7",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999979024020",
+    "name": "LION STAR WALL POT HGR S GB-16",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193690",
+    "name": "LIPTON ICE TEA APPLE 200ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193683",
+    "name": "LIPTON ICE TEA LEMON 200ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992761001018",
+    "name": "Luwak White Koffie Original 20g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999395803",
+    "name": "LUX AQUA SPARKLE 90GR",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999395988",
+    "name": "LUX AROMATIX PEARL GLOW 90 GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999395711",
+    "name": "LUX AROMATIX PETAL TOUCH 90GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999397289",
+    "name": "LUX BDW MAGIC SPELL 250BTL",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394776",
+    "name": "LUX BEAU SHOW REF PINK 250 ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999396398",
+    "name": "LUX BEAUT SHOW ALMOND 250M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999395353",
+    "name": "LUX BEAUT SHOW LIME 250M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999396367",
+    "name": "LUX BEAUTY SHOW 450ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999394349",
+    "name": "LUX BEAUTY SHOWER GENTLE 300M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999395285",
+    "name": "LUX BEAUTY SHOWER GREEN 250 ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999395292",
+    "name": "LUX BEAUTY SHOWER GREEN 300 ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999393434",
+    "name": "LUX BEAUTY SHOWER MOISTUR 300M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393465",
+    "name": "LUX BEAUTY SHOWER NOURISH 300M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393823",
+    "name": "LUX BEAUTY SHOWER REFRESH 300M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392963",
+    "name": "LUX BEAUTY WITH MILK & ROSE 75",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999395827",
+    "name": "LUX DAZZLING BEAUTY 90 G",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393861",
+    "name": "LUX EVENING SILK 250 ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999396275",
+    "name": "LUX EVENING SILK 250 ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999397074",
+    "name": "LUX GLAMOUR 90GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392956",
+    "name": "LUX HONEY&JASMINE 75G",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999399917",
+    "name": "LUX LUXURY SHOWER PINK 250ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999399528",
+    "name": "LUX LUXURY SHOWER PINK 450ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999397364",
+    "name": "LUX MAGIC SPELL 90GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999397371",
+    "name": "LUX MAGIC SPELL BDWASH 250ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999396329",
+    "name": "LUX S.LUXURY SHOWER CREAM 450",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999395797",
+    "name": "LUX SARI BUNGA LOTUS",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392864",
+    "name": "LUX SH PUMP 750ML SOFT LUX",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999394967",
+    "name": "LUX SHOWER CREAM CITRUS 250ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999394479",
+    "name": "LUX SHOWER CREAM SILK 100ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999393458",
+    "name": "LUX SHOWER CREAM SILK 250ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999394271",
+    "name": "LUX SHOWER EVENING SILK 450ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999395445",
+    "name": "LUX SHOWER SOFT LUXURY 250 R",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999395414",
+    "name": "LUX SHOWER SPARKLING B 450ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999394462",
+    "name": "LUX SHOWER SPARKLING BEAU 250M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999395438",
+    "name": "LUX SHOWER SPARKLING BEAU 250M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999395407",
+    "name": "LUX SHOWER VIBRANT CITRUS 450M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394547",
+    "name": "LUX SHWR CREAM SOFT LUXURY 100",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394608",
+    "name": "LUX SHWR CREAM SPARKLING 100ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999396299",
+    "name": "LUX SILK NOURISHMENT 250 ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999393472",
+    "name": "LUX SPA SCRUB DISTRESS 200",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393311",
+    "name": "LUX SPECIAL 2005 100GR",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999396251",
+    "name": "LUX VIBRANT CITRUS 250 ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999395049",
+    "name": "LUX WHITE GLAMOUR 100",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999396282",
+    "name": "LUX WHITE GLAMOUR 250 ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999399962",
+    "name": "LUX WHITE GLAMOUR 250 ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999396510",
+    "name": "LUX WHITE GLAMOUR SHOWER 450M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393090",
+    "name": "LUX WHITE SPA SCRUB 200ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999999395780",
+    "name": "LUX YOUTHFUL ESSENCE 90GR",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999999391102",
+    "name": "LUX YOUTHFUL ESSENSE 100GR",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999999395391",
+    "name": "LUXCREAMY DELIGHT 90 G",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999909002791",
+    "name": "MARBOROL FILTER MILENIUM",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999909003286",
+    "name": "MARBOROLIGHT MILENIUM",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908010001",
+    "name": "MARINA ASTRINGENT 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908052605",
+    "name": "MARINA COLOGNE GEL CARING 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908052306",
+    "name": "MARINA COLOGNE GEL CARING 50M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908052704",
+    "name": "MARINA COLOGNE GEL HAPPY 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908052407",
+    "name": "MARINA COLOGNE GEL HAPPY 50ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908052506",
+    "name": "MARINA COLOGNE GEL LOVELY 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908052209",
+    "name": "MARINA COLOGNE GEL LOVELY 50M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908052308",
+    "name": "MARINA COLOGNE GEL LOVELY 50M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908271907",
+    "name": "MARINA COLOGNE SPRY BIRU 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908214409",
+    "name": "MARINA COLOGNE SPRY PINK 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908214607",
+    "name": "MARINA COLOGNE SPRY UNGU 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908041104",
+    "name": "MARINA COMP POWD IVORY 12GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908041401",
+    "name": "MARINA COMP POWD NATURAL 12GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908041203",
+    "name": "MARINA COMP POWD OLIVE 12GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908041302",
+    "name": "MARINA COMPACT POWDER 03 BEIGE",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908040503",
+    "name": "MARINA FACE POWD BEIGE 25GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908040909",
+    "name": "MARINA FACE POWD BEIGE 40GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908040305",
+    "name": "MARINA FACE POWD IVORY 25GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908040701",
+    "name": "MARINA FACE POWD IVORY 40GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908040602",
+    "name": "MARINA FACE POWD NATURAL 25GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908041005",
+    "name": "MARINA FACE POWD NATURAL 40GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908040404",
+    "name": "MARINA FACE POWD OLIVE 25GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908040800",
+    "name": "MARINA FACE POWD OLIVE 40GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908009906",
+    "name": "MARINA FACE TONIC 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908045607",
+    "name": "MARINA H&B FRESH HONEY 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908045706",
+    "name": "MARINA H&B FRESH HONEY 200M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908010100",
+    "name": "MARINA H&B LOT PINK 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908010308",
+    "name": "MARINA H&B LOTION ALOE V 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908010209",
+    "name": "MARINA H&B LOTION CREAM 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908010506",
+    "name": "MARINA H&B LOTION CREAM 200M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908010407",
+    "name": "MARINA H&B LOTION PINK 200M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908010605",
+    "name": "MARINA H&B UV WHITE 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908010704",
+    "name": "MARINA H&B UV WHITE 200M MULBE",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908214706",
+    "name": "MARINA HAND BODY AVOCADO 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908052100",
+    "name": "MARINA HAND BODY FLORAL 100 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908052001",
+    "name": "MARINA HAND BODY FRUITY 100 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908060600",
+    "name": "MARINA HBL NAT CHAMOMILE 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908060907",
+    "name": "MARINA HBL NAT CHAMOMILE 200ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908060709",
+    "name": "MARINA HBL NAT GINGSENG 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908061003",
+    "name": "MARINA HBL NAT GINSENG 200ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908060808",
+    "name": "MARINA HBL NAT GREEN TEA 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908061102",
+    "name": "MARINA HBL NAT HONEY 200ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908251008",
+    "name": "MARINA HBL TOTAL CARE 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908251107",
+    "name": "MARINA HBL TOTAL CARE 200",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908082800",
+    "name": "MARINA HBL UV WHITE 200ML MILK",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908009807",
+    "name": "MARINA MILK CLEANS 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908273000",
+    "name": "MARINA NATURAL APPLE 350ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908273307",
+    "name": "MARINA NATURAL AVOCADO 350ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908273109",
+    "name": "MARINA NATURAL GINSENG 350ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908214805",
+    "name": "MARINA NATURAL HBL AVOCAD 200M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908273208",
+    "name": "MARINA NATURAL SOFTENING 350ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908244307",
+    "name": "MARINA NTR HONEY BERRY BW 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908050205",
+    "name": "MARINA SOAP CHARMING 75G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908050403",
+    "name": "MARINA SOAP CHIC 75G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908050304",
+    "name": "MARINA SOAP ENERGIC 75G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908058904",
+    "name": "MARINA SOAP FUNKY BERRY 80 GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908059000",
+    "name": "MARINA SOAP JAZZY ORENZ 80 GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908044600",
+    "name": "MARINA SPL COL HIP HOP POP 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908044303",
+    "name": "MARINA SPL COL HIP HOP POP 50M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908044204",
+    "name": "MARINA SPL COL JAZZ 50ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908044501",
+    "name": "MARINA SPL COL JAZZY JAZZ 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908044402",
+    "name": "MARINA SPL COL ROMANTIC 100M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908044105",
+    "name": "MARINA SPL COL ROMANTIC 50M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908205308",
+    "name": "MARINA SPLAS COLOG DANCIN 50ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908084309",
+    "name": "MARINA SPLASH COLOG DANCIN 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908053008",
+    "name": "MARINA SWEET COMP PEACH 14 GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908052902",
+    "name": "MARINA SWEET COMP POWD IVO 14G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908052803",
+    "name": "MARINA SWEET COMP WHITE 14 GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908044808",
+    "name": "MARINA TALC EXOTIC 50GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908044709",
+    "name": "MARINA TALC ROMANTIC 50GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908044907",
+    "name": "MARINA TALK INNOCENT 50GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908082701",
+    "name": "MARINA UV WHITE 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908266101",
+    "name": "MARINA UV WHITE MILK 500ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908045409",
+    "name": "MARINA UV WHITE MOIST 50ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908266002",
+    "name": "MARINA UV WHITE MULBERRY 500ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908244208",
+    "name": "MARINA WHITE BODY WASH 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908212306",
+    "name": "MARINA WHITE FAC FOAM 40ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908212207",
+    "name": "MARINA WHITE TWC FN 02",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908210500",
+    "name": "MARINA WHITE TWC FP 01",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "76239625",
+    "name": "Marlboro Menthol Lights 20 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "76164217",
+    "name": "Marlboro Red Hardpack 20 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8992775110010",
+    "name": "Masako Bumbu Ekstrak Daging Ayam Sachet 8.5g",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8992775110027",
+    "name": "Masako Bumbu Ekstrak Daging Sapi Sachet 8.5g",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999918441345",
+    "name": "MASTERBIS PEANUT CREAM",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8998866200011",
+    "name": "Mie Sedaap Goreng 90g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998866200424",
+    "name": "Mie Sedaap Korean Spicy Chicken 87g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998866200431",
+    "name": "Mie Sedaap Korean Spicy Soup 77g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998866200042",
+    "name": "Mie Sedaap Kuah Rasa Ayam Bawang 70g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998866200103",
+    "name": "Mie Sedaap Kuah Rasa Baso Spesial 77g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998866200035",
+    "name": "Mie Sedaap Kuah Rasa Kari Kental 72g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8998866200028",
+    "name": "Mie Sedaap Kuah Rasa Soto 75g",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8992696404014",
+    "name": "Milo Activ-Go 3 in 1 Sachet 22g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8992742100018",
+    "name": "Minyak Kayu Putih Cap Lang 30ml",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8992742100025",
+    "name": "Minyak Kayu Putih Cap Lang 60ml",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8992742100032",
+    "name": "Minyak Telon Cap Lang Plus 60ml",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8998888040011",
+    "name": "Minyakita Minyak Goreng Rakyat Pouch 1L",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "8998888040028",
+    "name": "Minyakita Minyak Goreng Rakyat Pouch 2L",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "8999999402495",
+    "name": "MOLTO ALOE VERA 900ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403546",
+    "name": "MOLTO ESSENCE 250ML",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999999403553",
+    "name": "MOLTO ESSENCE 300ML",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999999400910",
+    "name": "MOLTO FLORAL BLISS 6 S",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400903",
+    "name": "MOLTO FLORAL BLISS REFF 450 ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400958",
+    "name": "MOLTO PEWANGI FLO BLISS 900ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401023",
+    "name": "MOLTO PEWANGI FLOWER SHOWER900",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400965",
+    "name": "MOLTO PEWANGI FRUITY 900 R",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403430",
+    "name": "MOLTO PEWANGI LAVENDER 1800ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999402815",
+    "name": "MOLTO PEWANGI LAVENDER SCT",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403539",
+    "name": "MOLTO PEWANGI MANGO 1800ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403478",
+    "name": "MOLTO PEWANGI MANGO 900ML RFL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400736",
+    "name": "MOLTO PEWANGI PEAC VANILA 1800",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403423",
+    "name": "MOLTO PEWANGI PINK 1800ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400590",
+    "name": "MOLTO PEWANGI VIOLET 1800ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400576",
+    "name": "MOLTO PEWANGI VIOLET 450ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400583",
+    "name": "MOLTO PEWANGI VIOLET 900 ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400743",
+    "name": "MOLTO PW PEACH & VANILLA 900ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403850",
+    "name": "MOLTO SILKY 450R",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403867",
+    "name": "MOLTO SILKY FINE WASH 500ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403164",
+    "name": "MOLTO SOFT BLOSSOM PINK 450ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403348",
+    "name": "MOLTO SOFT BLUE 1800 ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403096",
+    "name": "MOLTO SOFT BLUE 450ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403317",
+    "name": "MOLTO SOFT GREEN 1000ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403287",
+    "name": "MOLTO SOFT GREEN 450ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403195",
+    "name": "MOLTO SOFT PINK 1000ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403331",
+    "name": "MOLTO SOFT PINK 1800 ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403492",
+    "name": "MOLTO SOFT PURE 450ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403508",
+    "name": "MOLTO SOFT PURE 900ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403591",
+    "name": "MOLTO SOFT S BLUE 900ML RFL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403126",
+    "name": "MOLTO SOFT SPRING BLUE 1000ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403102",
+    "name": "MOLTO SOFT SPRING BLUE 500ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403256",
+    "name": "MOLTO SOFT VIOLET 1000ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403225",
+    "name": "MOLTO SOFT VIOLET 450ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999402501",
+    "name": "MOLTO SOFTENER ALUE VERA 1800M",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403119",
+    "name": "MOLTO SOFTENER BLUE 900ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400651",
+    "name": "MOLTO SOFTENER FLOWER 450 ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403300",
+    "name": "MOLTO SOFTENER GREEN 900ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403188",
+    "name": "MOLTO SOFTENER PINK 900M",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403522",
+    "name": "MOLTO SOFTENER PURE 1800ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403652",
+    "name": "MOLTO TRIKA AROMATERAPI 25ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401054",
+    "name": "MOLTO TRIKA FLOWER 450 RF",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403836",
+    "name": "MOLTO TRIKA SPRING BLUE 450ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403843",
+    "name": "MOLTO TRIKA SPRING BLUE 500ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400613",
+    "name": "MOLTO ULTRA BIRU 300 BTL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400811",
+    "name": "MOLTO ULTRA BLUE REFF 300ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400798",
+    "name": "MOLTO ULTRA BLUE SCT",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401146",
+    "name": "MOLTO ULTRA MORNING FRES 300",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400637",
+    "name": "MOLTO ULTRA PINK 300 BTL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400828",
+    "name": "MOLTO ULTRA PINK 300ML RFL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400804",
+    "name": "MOLTO ULTRA PINK SCT",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401177",
+    "name": "MOLTO ULTRA SB 300 BTL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401122",
+    "name": "MOLTO ULTRA SB 6 S",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401160",
+    "name": "MOLTO ULTRA SB GREEN 300 ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401139",
+    "name": "MOLTO ULTRA SEKALI BILAS 300",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908043702",
+    "name": "MY BABY BB LOTION 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908043504",
+    "name": "MY BABY BB OIL 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908043306",
+    "name": "MY BABY BB SHAMPOO 100M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908060402",
+    "name": "MY BABY COLOGNE 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908204400",
+    "name": "MY BABY COLOGNE FF 100 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908060501",
+    "name": "MY BABY COLOGNE GEL PINK 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908207609",
+    "name": "MY BABY FABRIC SOFT BLUE 1800M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908207500",
+    "name": "MY BABY FABRIC SOFT BLUE 900ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908207906",
+    "name": "MY BABY FABRIC SOFT PINK 1800M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908207807",
+    "name": "MY BABY FABRIC SOFT PINK 900ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908265203",
+    "name": "MY BABY HAIR LOTION FF 100 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908058201",
+    "name": "MY BABY KIT CLASSIC PAKET BSR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908243300",
+    "name": "MY BABY MILK SOAP 100 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908208408",
+    "name": "MY BABY MILK SOAP 100+SHP 50",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908243409",
+    "name": "MY BABY MILK SOAP SF 100 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908208705",
+    "name": "MY BABY MILK SOAP100+SHP50 PIN",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908044006",
+    "name": "MY BABY MINYAK TELON 60 ML",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999908284907",
+    "name": "MY BABY MINYAK TELON PLUS 90",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999908204202",
+    "name": "MY BABY MY TELON PLUS 60ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908045904",
+    "name": "MY BABY PAKET TAS",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908059901",
+    "name": "MY BABY POWD F FRUITY 150G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908042507",
+    "name": "MY BABY POWDER 150G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908042606",
+    "name": "MY BABY POWDER 250G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908042705",
+    "name": "MY BABY POWDER 350G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908042408",
+    "name": "MY BABY POWDER 50 GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908042804",
+    "name": "MY BABY POWDER BIANG K 150G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908208101",
+    "name": "MY BABY POWDER CHAMOMILE 100G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908060006",
+    "name": "MY BABY POWDER F FRUITY 250G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908060105",
+    "name": "MY BABY POWDER F FRUITY 350G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908059802",
+    "name": "MY BABY POWDER F FRUITY 50GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908318206",
+    "name": "MY BABY POWDER FF 500 G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908208200",
+    "name": "MY BABY POWDER FLORAL 100GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908208309",
+    "name": "MY BABY POWDER FRESH FRUIT 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908082602",
+    "name": "MY BABY POWDER PRICKLY HEAT 50",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908054005",
+    "name": "MY BABY POWDER SWEET F 250G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908054104",
+    "name": "MY BABY POWDER SWEET F 350G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908053800",
+    "name": "MY BABY POWDER SWEET FL 50G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908043207",
+    "name": "MY BABY SHAMPO 50ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999908243201",
+    "name": "MY BABY SHAMPO REFIL 200ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999908204806",
+    "name": "MY BABY SHAMPOO 200 ML",
+    "category": "Perawatan Diri",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999908060204",
+    "name": "MY BABY SKIN PROTECTIVE LOT 50",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908243508",
+    "name": "MY BABY SKIN PROTECTIVE LOT100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908043108",
+    "name": "MY BABY SOAP 100G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908043009",
+    "name": "MY BABY SOAP 80G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908059604",
+    "name": "MY BABY SOAP F FRUITY 80GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908059703",
+    "name": "MY BABY SOAP FRESH FRUITY 100G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908054302",
+    "name": "MY BABY SOAP SWEET FLORAL 100G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908054203",
+    "name": "MY BABY SOAP SWEET FLORAL 80G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908053909",
+    "name": "MY BABY SWEET FLORAL 150G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908243607",
+    "name": "MY BABY VAPOR RUB 50",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908029607",
+    "name": "NATURAL HONEY HBL DRY 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908030108",
+    "name": "NATURAL HONEY HBL DRY 200ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908029706",
+    "name": "NATURAL HONEY HBL EXTRA 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908030207",
+    "name": "NATURAL HONEY HBL EXTRA 200ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908030801",
+    "name": "NATURAL HONEY HBL WHITE 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908030900",
+    "name": "NATURAL HONEY HBL WHITE 200ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908260208",
+    "name": "NEO HORMOVITON 150",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908057105",
+    "name": "NEO HORMOVITON 5KAP",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908057907",
+    "name": "NEO HORMOVITON GRENG 10X4,2GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908050601",
+    "name": "NEO RHEUMACYL CREAM 30GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908000101",
+    "name": "Neo Rheumacyl Pereda Nyeri Sendi 20 Tablet",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999999275563",
+    "name": "NINJA EAGLE SURP",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908285201",
+    "name": "NOLANTA OBAT KEMBUNG",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999908001207",
+    "name": "OBB OBAT BATUK 60ML",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999999390495",
+    "name": "OMO CREAM BIRU 200G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390501",
+    "name": "OMO CREAM BIRU 400G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390532",
+    "name": "OMO CREAM LEMON 400G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390594",
+    "name": "OMO KRIM HIGINIS POT 400G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390549",
+    "name": "OMO KRIM LEMON POT 400G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390518",
+    "name": "OMO KRIM POT 400G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992760221028",
+    "name": "Oreo Biskuit Krim Vanila Roll 123g",
+    "category": "Jajan & Snack",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999908039309",
+    "name": "OSKADON O S KEPALA 4TAB",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8992764100015",
+    "name": "Oskadon Obat Sakit Kepala 4 Tablet",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999908043801",
+    "name": "OSKADON SP 4 TABLET",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8992764100022",
+    "name": "Oskadon SP Pegal Linu 4 Tablet",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999999280192",
+    "name": "PADDLE POP CANDY CAKE NOVA",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280215",
+    "name": "PADDLE POP CHOCOLATE VOLT 60ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999275587",
+    "name": "PADDLE POP CHOKO KICK",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280246",
+    "name": "PADDLE POP CYBERION 65ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280222",
+    "name": "PADDLE POP RAINBOW SPARK 60ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280239",
+    "name": "PADDLE POP TWISTER COLA 75ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999909000018",
+    "name": "Panadol Biru Paracetamol 500mg 10 Kaplet",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999909000025",
+    "name": "Panadol Merah Extra Paracetamol 10 Kaplet",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8999909039124",
+    "name": "PANAMAS 1 12",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992759100023",
+    "name": "Paramex Flu & Batuk 4 Tablet",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8992759100016",
+    "name": "Paramex Sakit Kepala & Gigi 4 Tablet",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "8996001400029",
+    "name": "Permen Kis Mint Cherry Sachet",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8996001400012",
+    "name": "Permen Kopiko Coffee Candy Sachet",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992741100019",
+    "name": "Permen Relaxa Barley Mint Sachet",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992741100026",
+    "name": "Permen Yupi Gummy Burger 8g",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "089686060157",
+    "name": "Pop Mie Goreng Pedes Gledek 75g",
+    "category": "Mi Instan",
+    "baseUnit": "cup"
+  },
+  {
+    "barcode": "089686060010",
+    "name": "Pop Mie Rasa Ayam 75g",
+    "category": "Mi Instan",
+    "baseUnit": "cup"
+  },
+  {
+    "barcode": "089686060027",
+    "name": "Pop Mie Rasa Baso 75g",
+    "category": "Mi Instan",
+    "baseUnit": "cup"
+  },
+  {
+    "barcode": "089686060034",
+    "name": "Pop Mie Rasa Soto Ayam 75g",
+    "category": "Mi Instan",
+    "baseUnit": "cup"
+  },
+  {
+    "barcode": "8999908081605",
+    "name": "POWERFIT COKLAT 250 G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908072603",
+    "name": "PRITHO D ACTION HELM",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908072405",
+    "name": "PRITHO D ACTION PLUS",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908053404",
+    "name": "PRITHO DIAMOND FAMILI PACK",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908053206",
+    "name": "PRITHO DIAMOND HELM",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908050908",
+    "name": "PRITHO DIAMOND SOFT TO MEDIUM",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908008305",
+    "name": "PRITHO DOUBLE ACTION",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908203502",
+    "name": "PRITHO DOUBLE ACTION HEMAT",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908008909",
+    "name": "PRITHO FANTASTIC SOFT TO MEDIU",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908007803",
+    "name": "PRITHO JUN.FRUIT APEL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908002006",
+    "name": "PRITHO JUNIOR SOFT",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908008008",
+    "name": "PRITHO JUNIOR SOFT ORANGE",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908007902",
+    "name": "PRITHO JUNIOR SOFT STRAWB",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908037909",
+    "name": "PRITHO OPTIMA",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908053305",
+    "name": "PRITHO PANTASTIC HELM",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908072504",
+    "name": "PRITHO SPECIAL EXPRESS HELM",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908008107",
+    "name": "PRITHO SPESIAL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908008503",
+    "name": "PRITHO SUPER SOFT TO MEDIUM",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992770100012",
+    "name": "Promag Obat Sakit Maag 10 Tablet",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "strip"
+  },
+  {
+    "barcode": "089686040029",
+    "name": "Qtela Keripik Singkong Balado 60g",
+    "category": "Jajan & Snack",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "089686040036",
+    "name": "Qtela Keripik Singkong Original 60g",
+    "category": "Jajan & Snack",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999999275570",
+    "name": "RAINBOW PEAK",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908047601",
+    "name": "REVLON FLEX COND NOURIS 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908047908",
+    "name": "REVLON FLEX COND REVITAL 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908046604",
+    "name": "REVLON FLEX SHAM NOURISH 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908048103",
+    "name": "REVLON FLEX SHAM NOURISH 200M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908046703",
+    "name": "REVLON FLEX SHAM PURIFY 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908046901",
+    "name": "REVLON FLEX SHAM REVITAL 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908046802",
+    "name": "REVLON FLEX SHAM VOLUMIS 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908047809",
+    "name": "REVLON FLEX SHAM VOLUMIZ 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908047106",
+    "name": "REVLON FLEX SHP NOURIS 350 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908047205",
+    "name": "REVLON FLEX SHP PURIFYI 350 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908047403",
+    "name": "REVLON FLEX SHP REVITAL 350 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908047304",
+    "name": "REVLON FLEX SHP VOLUMI 350 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908030306",
+    "name": "REVLON H&B ALOE VERA 200M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908030702",
+    "name": "REVLON H&B EXTR DRY SKIN 350M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908030603",
+    "name": "REVLON H&B NORM DRY SKIN 350M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908028204",
+    "name": "REVLON H&B WHITE 350M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908032003",
+    "name": "REVLON ZP11 MENTHOL SHP AK 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908032102",
+    "name": "REVLON ZP11 MENTHOL SHP AK 200",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999700225",
+    "name": "REXONA ROLL ON COOL WHT 40M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8993175110013",
+    "name": "Richeese Nabati Wafer Krim Keju 50g",
+    "category": "Jajan & Snack",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8993175110020",
+    "name": "Richoco Nabati Wafer Krim Coklat 50g",
+    "category": "Jajan & Snack",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999999399009",
+    "name": "RINSO ALOE VERA 70GR",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394158",
+    "name": "RINSO ANTI NODA 200GR",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401252",
+    "name": "RINSO ANTI NODA 2K",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391645",
+    "name": "RINSO ANTI NODA 2KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391560",
+    "name": "RINSO ANTI NODA 32GR",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401221",
+    "name": "RINSO ANTI NODA 450",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390037",
+    "name": "RINSO ANTI NODA 500GR",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400002",
+    "name": "RINSO ANTI NODA 56 GR",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999397784",
+    "name": "RINSO ANTI NODA 75GR",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391638",
+    "name": "RINSO ANTI NODA 900",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401238",
+    "name": "RINSO ANTI NODA 900",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390044",
+    "name": "RINSO ANTI NODA IKG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391621",
+    "name": "RINSO ANTINODA 500GR NEW",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999399771",
+    "name": "RINSO ANTINODA 75GR",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394080",
+    "name": "RINSO BUBUK ANTI NODA 1 KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394097",
+    "name": "RINSO BUBUK ANTI NODA 2 KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394073",
+    "name": "RINSO BUBUK ANTI NODA 500G",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392383",
+    "name": "RINSO BUBUK ANTI NODA 80G",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391041",
+    "name": "RINSO BUBUK WARNA 93G",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390730",
+    "name": "RINSO COLOUR & CARE 2KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393762",
+    "name": "RINSO COLOUR & CARE 900GR",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394219",
+    "name": "RINSO EXCEL 1 KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394905",
+    "name": "RINSO EXCEL MAGIC HUNT 1KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390099",
+    "name": "RINSO MATIC 1 KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391768",
+    "name": "RINSO MATIC 1KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390105",
+    "name": "RINSO MATIC 3 KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391799",
+    "name": "RINSO MATIC 3 KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999395995",
+    "name": "RINSO MOLTO MAGIC FRESH 900ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401078",
+    "name": "RINSO MOLTO ULTRA 800",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390310",
+    "name": "RINSO WARNA 1 KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391973",
+    "name": "RINSO WARNA 1 KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390327",
+    "name": "RINSO WARNA 2 KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392147",
+    "name": "RINSO WARNA BUBUK 2KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390723",
+    "name": "RINSO WARNA CLEAN 1KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8996001300015",
+    "name": "Roma Biskuit Kelapa 300g",
+    "category": "Jajan & Snack",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8996001300022",
+    "name": "Roma Sari Gandum Biskuit 115g",
+    "category": "Jajan & Snack",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999999192006",
+    "name": "ROYCO B PELEZAT R TERASI 10G",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999198572",
+    "name": "ROYCO B PELEZAT SG RS AYAM 10G",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999192754",
+    "name": "ROYCO BUMBU PELEZAT 200 ML",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999191979",
+    "name": "ROYCO BUMBU PELEZAT R ASAM 10G",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999191016",
+    "name": "Royco Bumbu Pelezat Rasa Ayam Sachet 8g",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999191023",
+    "name": "Royco Bumbu Pelezat Rasa Sapi Sachet 8g",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999191993",
+    "name": "ROYCO BUMBU RASA ASAM 100GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999192150",
+    "name": "ROYCO BUMBU RASA AYAM 100GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999192020",
+    "name": "ROYCO BUMBU RASA TERASI 100 G",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999194031",
+    "name": "ROYCO BUMBU SERBAGUNA 8GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999193256",
+    "name": "ROYCO FDS RASA AYAM 6X8G",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999193263",
+    "name": "ROYCO FDS RASA SAPI 6X8G",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999192181",
+    "name": "ROYCO PELEZAT CAIR 110ML",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999194048",
+    "name": "ROYCO RASA AYAM 8GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999192853",
+    "name": "ROYCO RASA AYAM EXTRA 20 %",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999198589",
+    "name": "ROYCO RASA SAPI 10 GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999192860",
+    "name": "ROYCO RASA SAPI EXTRA 20 %",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999193300",
+    "name": "ROYCO SAPI 50",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999193317",
+    "name": "ROYCO SERBAGUNA 200 AYAM",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999193324",
+    "name": "ROYCO SERBAGUNA 200 SAPI",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999192198",
+    "name": "ROYCO SERBAGUNA R.SAPI 100GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999193294",
+    "name": "ROYCO SERBAGUNA RASA AYAM 50GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999191429",
+    "name": "ROYCO SUP KRIM ASPARAGUS 56GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999191436",
+    "name": "ROYCO SUP KRIM AYAM 58GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999191443",
+    "name": "ROYCO SUP KRIM JAGUNG 50GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999191412",
+    "name": "ROYCO SUP KRIM JAMUR 55GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999192938",
+    "name": "ROYCO TEPUNG BUMBU 80GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999192945",
+    "name": "ROYCO TEPUNG BUMBU EX PDS 80GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999197827",
+    "name": "ROYCO TP BB SERBAGUNA 80GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999197810",
+    "name": "ROYCO TP BB SERBAGUNA PDS 80GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999197803",
+    "name": "ROYCO TP BB TEMPURA 80GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999192921",
+    "name": "ROYCO TP BUMBU TEMPURA 70GR",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8992775210017",
+    "name": "Sajiku Tepung Bumbu Serbaguna 80g",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8992763100016",
+    "name": "Salonpas Koyo Pereda Nyeri Isi 10 Lembar",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909096004",
+    "name": "Sampoerna A Mild 16 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909076006",
+    "name": "SAMPOERNA A MILD MENTHOL 16",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909009325",
+    "name": "Sampoerna Exclusive 16 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909039988",
+    "name": "SAMPOERNA HIJAU 12 KTK",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909085114",
+    "name": "Sampoerna Kretek Merah 12 Batang",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909055063",
+    "name": "SAMPOERNA MENTHOL 12",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909982000",
+    "name": "SAMPOERNA MILD 12",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999909424999",
+    "name": "SAMPOERNA SLOP",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8993175538053",
+    "name": "Sania Minyak Goreng Premium Pouch 2L",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "8999999194710",
+    "name": "SARI MURNI 40GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999000769",
+    "name": "SARI MURNI ISI 5",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999194703",
+    "name": "SARI MURNIO 16GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999195670",
+    "name": "SARI WANGI CELUP 100",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999195663",
+    "name": "SARI WANGI CELUP 25",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999195656",
+    "name": "SARI WANGI CELUP 50",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "089686017724",
+    "name": "Sarimi Isi 2 Rasa Ayam Bawang",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "089686017731",
+    "name": "Sarimi Isi 2 Rasa Ayam Kremes Goreng",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "089686017762",
+    "name": "Sarimi Isi 2 Rasa Baso Sapi",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "089686017755",
+    "name": "Sarimi Isi 2 Rasa Soto Koya Jeruk Nipis",
+    "category": "Mi Instan",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999999193553",
+    "name": "SARIWANGI 100 X 2GR",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999194772",
+    "name": "SARIWANGI 25 X 2GR",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193539",
+    "name": "SARIWANGI 25X1.85G",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193546",
+    "name": "SARIWANGI 50X1.85G",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193522",
+    "name": "SARIWANGI 5X1.85G",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193607",
+    "name": "SARIWANGI MELATI 25 X 2GR",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193430",
+    "name": "SariWangi Teh Asli Celup Isi 25 Kantong",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "kotak"
+  },
+  {
+    "barcode": "8999999193447",
+    "name": "SARIWANGI TEH HIJAU 25 S",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999196257",
+    "name": "SARIWANGI TEH J NIPIS 5X18GR",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999196264",
+    "name": "SARIWANGI TEH JAHE 5X18GR",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999195298",
+    "name": "SARIWANGI TEH KELAT 25SCT",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999195359",
+    "name": "SARIWANGI TEH KELAT 5SCT",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193614",
+    "name": "SARIWANGI TEH MADU 5X18GR",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999196271",
+    "name": "SARIWANGI TEH SUSU 5X18GR",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908268006",
+    "name": "SOS ABT CUCI PIRING LIME 400 M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908286406",
+    "name": "SOS HAND SOAP MELON 300R",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908286307",
+    "name": "SOS HAND SOAP STRW 300 R",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908286505",
+    "name": "SOS HAND SOAP STWB 300 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908286604",
+    "name": "SOS HANDSOAP MELON BTL 300 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908264206",
+    "name": "SOS KARBOL CLASSIC PINE 1800ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908264107",
+    "name": "SOS KARBOL EXTRA STRONG 800ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908264503",
+    "name": "SOS KARBOL LEMON 800ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908264602",
+    "name": "SOS KARBOL LEMON PINE 1800ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908079800",
+    "name": "SOS LANTAI ORANGE 1600 REFIL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908079602",
+    "name": "SOS PEMBERSIH LANTAI APL 1600M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908079701",
+    "name": "SOS PEMBERSIH LANTAI LMN 1600M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908267900",
+    "name": "SOS WASH PENC PIRING LEMON 400",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908251206",
+    "name": "SOS WASH PENC PIRING LIME 800M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908251305",
+    "name": "SOS WASH PENC PIRING LMN 800ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400484",
+    "name": "SUNCLIN PEMUTIH FLORAL 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400491",
+    "name": "SUNCLIN PEMUTIH FLORAL 200ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400507",
+    "name": "SUNCLIN PEMUTIH FLORAL 500ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400231",
+    "name": "SUNCLIN PEMUTIH FRESH 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400200",
+    "name": "SUNCLIN PEMUTIH LEMON 1000 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400187",
+    "name": "SUNCLIN PEMUTIH LEMON 200ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400194",
+    "name": "SUNCLIN PEMUTIH LEMON 500ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400118",
+    "name": "SUNCLIN PEMUTIH REGUL 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999400149",
+    "name": "SUNCLIN PEMUTIH REGULAR 1000ML",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999400125",
+    "name": "SUNCLIN PEMUTIH REGULAR 200M",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999400132",
+    "name": "SUNCLIN PEMUTIH REGULAR 500ML",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999400897",
+    "name": "SUNLIGHT ACTIVE GEL 200 ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999000721",
+    "name": "SUNLIGHT ACTIVE GEL ORG 200ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999397432",
+    "name": "SUNLIGHT BATANGAN 270G",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999396749",
+    "name": "SUNLIGHT CREAM 2IN1 350GR",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390129",
+    "name": "SUNLIGHT CREAM JRK NIPIS 400G",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390419",
+    "name": "SUNLIGHT JERUK NIPIS 200ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392178",
+    "name": "SUNLIGHT JERUK NIPIS 250ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392215",
+    "name": "SUNLIGHT JERUK NIPIS 650G",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392734",
+    "name": "SUNLIGHT JERUK NIPIS 90ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391379",
+    "name": "SUNLIGHT KRIM LIME POT 400G",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392154",
+    "name": "SUNLIGHT LEMON 200ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392277",
+    "name": "SUNLIGHT LEMON 250ML BTL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394929",
+    "name": "SUNLIGHT LIME 800ML+MGK RFL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390167",
+    "name": "SUNLIGHT PIRING LEMON 400ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390174",
+    "name": "SUNLIGHT PIRING LEMON 800ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390211",
+    "name": "SUNLIGHT PIRING LIME 225ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393687",
+    "name": "SUNLIGHT PIRING LIME 800ML-BTL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390181",
+    "name": "SUNLIGHT PIRING LIME POUCH 400",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "8999999390198",
+    "name": "SUNLIGHT PIRING LIME POUCH 800",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pouch"
+  },
+  {
+    "barcode": "8999999393779",
+    "name": "SUNLIGHT PRG LEMON 800ML-BTL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392222",
+    "name": "SUNLIGHT SCOURER LIME RVL 650G",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999398910",
+    "name": "SUNLIGHT SOAP 225GR",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394615",
+    "name": "SUNLIGHT STRAWBERRY 800ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999406950",
+    "name": "SUNLIGHT SUPERPELL APPLE 400M",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999406929",
+    "name": "SUNLIGHT SUPERPELL APPLE 800ML",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999406974",
+    "name": "SUNLIGHT SUPERPELL GREEN 800M",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999406936",
+    "name": "SUNLIGHT SUPERPELL LEMON 400M",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999406998",
+    "name": "SUNLIGHT SUPERPELL PURPLE 800M",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407001",
+    "name": "SUNLIGHT SUPERPELL WHT LL 800M",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999406943",
+    "name": "SUNLIGHT SUPERPELL YELLOW 800M",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999700171",
+    "name": "SUNSILK SHAMP APPLE ESS 100M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999700379",
+    "name": "SUNSILK SHAMP APPLE ESS 200M",
+    "category": "Perawatan Diri",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407421",
+    "name": "SUPER PELL APPLE 800ML-RVL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407582",
+    "name": "SUPER PELL FLORAL 800ML-RVL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407636",
+    "name": "SUPER PELL FRUITY 800ML-RVL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407483",
+    "name": "SUPER PELL LEMON 800ML-RVL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407537",
+    "name": "SUPER PELL PINE 800ML-RVL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999406912",
+    "name": "SUPER PELL ROSE 800R",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999397968",
+    "name": "SUPERBUSA BATANGAN 210G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407414",
+    "name": "SUPERPELL APPLE 400ML RVL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407575",
+    "name": "SUPERPELL FLORAL 400 ML RVL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407629",
+    "name": "SUPERPELL FRUITY 400 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407476",
+    "name": "SUPERPELL LEMON 400 ML-RVL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407438",
+    "name": "SUPERPELL LTI APPLE 800ML-BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407599",
+    "name": "SUPERPELL LTI FLORAL 800ML-BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407643",
+    "name": "SUPERPELL LTI FRUITY 800ML-BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407490",
+    "name": "SUPERPELL LTI LEMON 800ML-BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407544",
+    "name": "SUPERPELL LTI PINE 800ML-BTL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407520",
+    "name": "SUPERPELL PINE 400 ML-RVL",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394356",
+    "name": "SURF BUBUK 100G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390976",
+    "name": "SURF BUBUK LIME FRESH 900",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999397661",
+    "name": "SURF CLEAN FRESH 100GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999397555",
+    "name": "SURF CLEAN FRESH 1KG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999397470",
+    "name": "SURF CLEAN FRESH 2KG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401313",
+    "name": "SURF CLEAN FRESH 900 G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394912",
+    "name": "SURF CLEAN FRESH 90GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999390969",
+    "name": "SURF DET LIME FRESH 45GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394042",
+    "name": "SURF DETERJEN 2 KG",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394141",
+    "name": "SURF FLOWERS 2 KG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394035",
+    "name": "SURF LIME FRESH 1 KG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999396435",
+    "name": "SURF LIME FRESH 100GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999392123",
+    "name": "SURF LIME FRESH 2KG",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999394851",
+    "name": "SURF LIME FRESH 900",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999401320",
+    "name": "SURF LIME FRESH 900 G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393045",
+    "name": "SURF PTH CEMERLANG CLE FRES900",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393007",
+    "name": "SURF PTH CEMERLANG LM FRES 900",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393533",
+    "name": "SURF THOU FLOWER 110 G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193195",
+    "name": "TARO CHEESY 18",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193409",
+    "name": "TARO CHILIKONG 16",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999191337",
+    "name": "TARO NET CHICKEN 16GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999191368",
+    "name": "TARO NET CHICKEN 70GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999191214",
+    "name": "TARO NET CHICKENZILLA 16",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193416",
+    "name": "TARO NET CHILIKONG 60",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999191832",
+    "name": "TARO NET POTATO BARBEQUE 70GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999191801",
+    "name": "TARO NET SEAWEED 70GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193348",
+    "name": "TARO POTATO 60",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999191825",
+    "name": "TARO POTATO BBQ 16GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999191504",
+    "name": "TARO SEAWEED 16 G",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193331",
+    "name": "TARO SEAWEED 60",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999000059",
+    "name": "TARO SNACK POTATO BARBEQUE",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999191511",
+    "name": "TARO STICK CHEESY CORN 20GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193164",
+    "name": "TARO STICK CHEESY CORN 60",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193201",
+    "name": "TARO STICK ROASTED CORN 18",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999191726",
+    "name": "TARO STICK ROASTED CORN 20GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193171",
+    "name": "TARO STICK ROASTED CORN 60 G",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999193188",
+    "name": "TARO STIK PAPRIKA 18 G",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999191467",
+    "name": "TARO TWIN PACK CHICKEN 140GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999191849",
+    "name": "TARO TWIN PACK POTATO 140GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999191818",
+    "name": "TARO TWIN PACK SEAWEED 140GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992745111015",
+    "name": "Teh Botol Sosro Kotak 250ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "kotak"
+  },
+  {
+    "barcode": "8992745311019",
+    "name": "Teh Celup Sosro Isi 30",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "kotak"
+  },
+  {
+    "barcode": "8998888111230",
+    "name": "Teh Pucuk Harum Less Sugar 350ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8998888111223",
+    "name": "Teh Pucuk Harum Melati Botol 350ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8998888020013",
+    "name": "Tolak Angin Cair Sidomuncul Sachet 15ml",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8998866200714",
+    "name": "Top Coffee Barista Gula Aren 22g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8998866200691",
+    "name": "Top Coffee Kopi Gula 2 in 1 25g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8998866200707",
+    "name": "Top Coffee Kopi Susu 31g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8996001414002",
+    "name": "Torabika Cappuccino Choco Granule 25g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8996001410011",
+    "name": "Torabika Duo Kopi + Gula 25g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8996001410042",
+    "name": "Torabika Gilus Mix Gula Aren 23g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8996001410028",
+    "name": "Torabika Kopi Susu 28g",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999908302502",
+    "name": "TOTAL CARE 250 ML ACTIONS",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908034908",
+    "name": "TOTAL CARE COOL MINT 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908205704",
+    "name": "TOTAL CARE COOL MINT 250ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908255808",
+    "name": "TOTAL CARE LEMON ICE 100ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908255907",
+    "name": "TOTAL CARE LEMON ICE 250ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908046000",
+    "name": "TOTALCARE ANTBACTREIAL GEL 60G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908046109",
+    "name": "TOTALCARE BACTERIAL GEL 95GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908059406",
+    "name": "TOTALCARE JUNIOR CHOCO CHIP 50",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908034601",
+    "name": "TOTALCARE JUNIOR ORANGE 50G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908034700",
+    "name": "TOTALCARE JUNIOR STRAWB 50G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999403669",
+    "name": "TRIKA AROMATHERAPY 300ML PUMP",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999918451245",
+    "name": "TWIPIZ MARIE CRYSPY 120GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8992753033744",
+    "name": "Ultra Milk Susu UHT Full Cream 250ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "kotak"
+  },
+  {
+    "barcode": "8992753018819",
+    "name": "Ultra Milk Susu UHT Rasa Cokelat 250ml",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "kotak"
+  },
+  {
+    "barcode": "899999715007",
+    "name": "VASELINE INTEN CR FARMING 100M",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908258700",
+    "name": "VIDORAN EMILSION JERUK 200GR",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908057303",
+    "name": "VIDORAN PLUS 120 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908210609",
+    "name": "VIDORAN PLUS RASA JERUK 225ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908001801",
+    "name": "VIDORAN SIRUP RASA JERUK 120",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999908034106",
+    "name": "VIDORAN SMART 30TAB",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908212405",
+    "name": "VIDORAN SMART PLUS 120 ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908062000",
+    "name": "VIDORAN SRP RS JERUK 120ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908001603",
+    "name": "VIDORAN SYRUP RS JERUK 225ML",
+    "category": "Obat Warung / P3K",
+    "baseUnit": "btl"
+  },
+  {
+    "barcode": "8999908042002",
+    "name": "VIDORAN VISION RS JERUK 30TAB",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391713",
+    "name": "VIM 650G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393595",
+    "name": "VIM BUBUK PEMBERSIH 650G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999391751",
+    "name": "VIM BUBUK PEMBERSIH LEMON 650G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999393571",
+    "name": "VIM LEMON 650G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908005502",
+    "name": "VITAMIN A IPI 50TAB",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908005106",
+    "name": "VITAMIN B IPI 50TAB",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908005007",
+    "name": "VITAMIN B1 IPI 50TAB",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908005304",
+    "name": "VITAMIN B12 IPI 50TAB",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908005205",
+    "name": "VITAMIN C IPI 50TAB",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908244000",
+    "name": "VITON ISOTONIC DRINK GUAVA 330",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999908244109",
+    "name": "VITON ISOTONIC DRINK LEMON 330",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277635",
+    "name": "WALL S 2 IN 1 STRAW GRACIA 900",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277673",
+    "name": "WALL S 2 IN 1 STRAWBERY 400 M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277680",
+    "name": "WALL S 2 IN 1 VANILLA COK 400M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277765",
+    "name": "WALL S 3IN1 CLK,STRW,VAN",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277772",
+    "name": "WALL S 3IN1 STR,BBG,ORG 400ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277758",
+    "name": "WALL S 3IN1 STW,ORG,BUBLE 900M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273460",
+    "name": "WALL S CONELLO CAPPUCINO 120ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273309",
+    "name": "WALL S CONELLO CHOCO HUGS",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273446",
+    "name": "WALL S CONELLO CHOCOLATE 120ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273279",
+    "name": "WALL S CONELLO CUP COKLAT",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273323",
+    "name": "WALL S CONELLO FLIRTY BERRY",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273316",
+    "name": "WALL S CONELLO LUVPUCCINO",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273293",
+    "name": "WALL S CONELLO MINTTO BE",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273286",
+    "name": "WALL S CONELLO MOCHA CUP",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273347",
+    "name": "WALL S CONELLO TIRAMISE YOU",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999278441",
+    "name": "WALL S CORNETTO DISC CHO",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277659",
+    "name": "WALL S DOUBLE DUCTH 400 ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999294038",
+    "name": "WALL S FEAST COKLAT KACANG 65M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999294021",
+    "name": "WALL S FEAST VANILA 65ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280116",
+    "name": "WALL S JELLY GALAXY 65ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277857",
+    "name": "WALL S MILKY VANILLA 400ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277840",
+    "name": "WALL S MILKY VANILLA CHO 900ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999278298",
+    "name": "WALL S MINI CORNET CHOC 12X30M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999278281",
+    "name": "WALL S MINI CORNET STRW 12X30M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271923",
+    "name": "WALL S PADDLE BUBBLE GUM",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271930",
+    "name": "WALL S PADDLE POP CHOCK ROCKS",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280178",
+    "name": "WALL S PADDLE POP CHOCO CHARM",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271893",
+    "name": "WALL S PADDLE POP CHOCO MUD 65",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271862",
+    "name": "WALL S PADDLE POP CHOCO ROCKY",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280093",
+    "name": "WALL S PADDLE POP GALACTICA",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280109",
+    "name": "WALL S PADDLE POP GALACTICA",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280123",
+    "name": "WALL S PADDLE POP GALACTICA",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280130",
+    "name": "WALL S PADDLE POP GALACTICA",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271855",
+    "name": "WALL S PADDLE POP KARAMEL 65 M",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999280185",
+    "name": "WALL S PADDLE POP MARKISA",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280147",
+    "name": "WALL S PADDLE POP NUTTY CHOC",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280154",
+    "name": "WALL S PADDLE POP RAINBAOW",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280161",
+    "name": "WALL S PADDLE POP SARSI",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271879",
+    "name": "WALL S PADDLE POP STAWBERY 65",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273408",
+    "name": "WALL S ROYALE ALMOND PRALI 135",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273415",
+    "name": "WALL S ROYALE SWRETHEAR BR 135",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277963",
+    "name": "WALL S SELECT CHESSIE BLUE 750",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277932",
+    "name": "WALL S SELECT ITALIAN 750ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277550",
+    "name": "WALL S SELECTION HONEY CARAMEL",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999278359",
+    "name": "WALL S TRI CHOCO 350 ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271947",
+    "name": "WALL S TRICO 70ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280253",
+    "name": "WALL S TRICO STRAWBERRY 60ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277741",
+    "name": "WALL S TRIPLE COKLAT 3IN1 900",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999278380",
+    "name": "WALL S TRIPLE TWIST 350 ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271954",
+    "name": "WALL S TWISTER ICE CONFEC 75M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999278274",
+    "name": "WALL S VIENNETA KURMA 600ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277710",
+    "name": "WALL SELECTION BLUEBERY 850ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277703",
+    "name": "WALL SELECTION CAPPUCCINO 850",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277697",
+    "name": "WALL SELECTION CHOCOLATE 850ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277826",
+    "name": "WALL SELECTION DOUBLE HZNT 850",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277727",
+    "name": "WALL SELECTION STRAWBWRY 850ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277628",
+    "name": "WALLS 2 IN 1 CHOCO MARBLE 900M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277512",
+    "name": "WALLS 2 IN 1 STRAWBERY 900ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277819",
+    "name": "WALLS 2IN1 STRAWB CHOCO 900GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277802",
+    "name": "WALLS 2IN1 STRW,CHOC CHIP 400M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277475",
+    "name": "WALLS 3 IN 1 COK,STRA,VAN 900",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271411",
+    "name": "WALLS BLIP BLOP",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277895",
+    "name": "WALLS BRONIES TIRAMISU 600G",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280208",
+    "name": "WALLS CHOCO BERRY PO[[ER",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999275464",
+    "name": "WALLS CHOCO MAGMA 60",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277482",
+    "name": "WALLS CHOCOLATE BLIZZARD 900G.",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999278434",
+    "name": "WALLS COKLAT VANILA 700",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999278366",
+    "name": "WALLS COKLAT VANILLA 350",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273248",
+    "name": "WALLS CONELLO CAPPUCINO",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273132",
+    "name": "WALLS CONELLO COKLAT",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999283032",
+    "name": "WALLS CONELLO HAZELNUT MOCA",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273361",
+    "name": "WALLS CONELLO HZL MOCHACINO",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273354",
+    "name": "WALLS CONELLO LATTE CARAMEL",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999283049",
+    "name": "WALLS CONELLO LATTE CARAMEL",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273149",
+    "name": "WALLS CONELLO STRAWB",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999283025",
+    "name": "WALLS CONELO TIRAMISU 110",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277499",
+    "name": "WALLS COOKIES & CREAM VAN 900M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271602",
+    "name": "WALLS DIMPI TRICO STRAWB JAMBU",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277611",
+    "name": "WALLS DOUBLE DUTCH 900 ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273255",
+    "name": "WALLS DOUBLE RASA STRAW",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999273262",
+    "name": "WALLS DOUBLE RASA TIRAMISU 125",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271428",
+    "name": "WALLS FEAST COKLAT KACANG",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271435",
+    "name": "WALLS FEAST VANILLA KACANG",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999275525",
+    "name": "WALLS KUNGFU COOKIES",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271886",
+    "name": "WALLS LT GUMMY OCEAN 65ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999290009",
+    "name": "WALLS MAGNUM ALMOND",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999999271572",
+    "name": "WALLS MAGNUM CLASSIC VANILA",
+    "category": "Rokok",
+    "baseUnit": "bks"
+  },
+  {
+    "barcode": "8999999277925",
+    "name": "WALLS MILK VANILLA 900",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999522100",
+    "name": "WALLS MINI CORNETT0",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277444",
+    "name": "WALLS MOCCA BLIZZARD",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999276171",
+    "name": "WALLS MOO",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277734",
+    "name": "WALLS MOO 70 ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999522162",
+    "name": "WALLS MOO ACTIVE",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999054038",
+    "name": "WALLS MOO ACTIVE 6",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999278427",
+    "name": "WALLS NEOPOLITAN 350",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999275556",
+    "name": "WALLS NINJA JELLY",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277918",
+    "name": "WALLS NYDAILY HCAL BLUE 400",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277413",
+    "name": "WALLS PADDL4E POP COOK&CR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999274047",
+    "name": "WALLS PADDLE POP BIZ-KIDZ 75ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280086",
+    "name": "WALLS PADDLE POP C&C VANILA",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271060",
+    "name": "WALLS PADDLE POP COKLAT",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280000",
+    "name": "WALLS PADDLE POP COKLAT 65ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280017",
+    "name": "WALLS PADDLE POP FLAKES",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271671",
+    "name": "WALLS PADDLE POP KARAMEL COKL",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999271350",
+    "name": "WALLS PADDLE POP MINI SUSU COK",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999280024",
+    "name": "WALLS PADDLE POP PELANGI",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277406",
+    "name": "WALLS PADDLE POP PELANGI 1000M",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271237",
+    "name": "WALLS PADDLE POP PELANGI KARAM",
+    "category": "Sembako & Bumbu",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999271800",
+    "name": "WALLS PADDLE POP SUSU VANILA",
+    "category": "Minuman Dingin & Susu",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999272005",
+    "name": "WALLS PADDLE POP THICK SHAKE",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999272241",
+    "name": "WALLS PADDLE POP TS FROZEN",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271831",
+    "name": "WALLS PADDLE POP TWISTER CVS",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271817",
+    "name": "WALLS PADDLE POP TWISTER RJA",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999282196",
+    "name": "WALLS POPULAIRE COK/VAN 90 ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999272180",
+    "name": "WALLS POPULAIRE COKLAT&VANILA",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999272173",
+    "name": "WALLS POPULAIRE STRAWB&VANILA",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999282202",
+    "name": "WALLS POPULAIRE STRO/VAN 90 ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999275457",
+    "name": "WALLS RAINBOW WAVE 60",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999271787",
+    "name": "WALLS ROCKET JERUK STRAWB",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999275488",
+    "name": "WALLS SEA JELLY BURST 60",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277529",
+    "name": "WALLS SELECTION CHOCOLATE",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277543",
+    "name": "WALLS SELECTION COFFEE NUTS",
+    "category": "Kopi & Minuman Sachet",
+    "baseUnit": "sachet"
+  },
+  {
+    "barcode": "8999999277536",
+    "name": "WALLS SELECTION STRAWB 850GR",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999275440",
+    "name": "WALLS SHAKY SHAKE",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999275433",
+    "name": "WALLS SHAKY2 SHAKE",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277567",
+    "name": "WALLS STRAWB 900ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999278403",
+    "name": "WALLS TRIPLE FRUIT 350",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999275549",
+    "name": "WALLS TWISTER FRUITY",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999275501",
+    "name": "WALLS TWISTER SABER 75",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277468",
+    "name": "WALLS VANILLA 900ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277642",
+    "name": "WALLS VERY ROCKY ROAD 400 ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277604",
+    "name": "WALLS VERY ROCKY ROAD 900 ML",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277987",
+    "name": "WALLS VIENNETTA BLACK FOREST",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277901",
+    "name": "WALLS VIENNETTA BROW.CHO 600G",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999290030",
+    "name": "WALLS VIENNETTA VAN COKLAT 600",
+    "category": "Jajan & Snack",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999277505",
+    "name": "WALS 2 IN 1 VAN COK COOK 900ML",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407865",
+    "name": "WIPOL CLASSIC FINE 900ML BTL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999999407872",
+    "name": "WIPOL CLASSIC PINE 450ML RFL",
+    "category": "Deterjen & Kebersihan",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999926252254",
+    "name": "WYBERT PASTILES",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999926264752",
+    "name": "WYBERT PLUS ANISEED 17G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999926256757",
+    "name": "WYBERT PLUS CENGKEH 17 G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999926382753",
+    "name": "WYBERT PLUS EUCALYPTUS 17G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999926446752",
+    "name": "WYBERT PLUS JAHE 17 G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  },
+  {
+    "barcode": "8999926674759",
+    "name": "WYBERT PLUS ORIGINAL 17G",
+    "category": "Lain-lain",
+    "baseUnit": "pcs"
+  }
+]
