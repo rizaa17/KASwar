@@ -16,8 +16,7 @@ Instalasi baru berisi **data contoh** (PIN pemilik 1234). Tekan **Mulai Toko Bar
 ## Deploy (GitHub)
 1. Unggah folder ini ke repositori GitHub.
 2. Hubungkan ke Lovable (sinkron GitHub) atau host di penyedia yang mendukung TanStack Start/Cloudflare.
-3. Opsional awan: isi `VITE_SUPABASE_URL` dan `VITE_SUPABASE_PUBLISHABLE_KEY` (lihat `.env.example`) dan jalankan seluruh migrasi backend. Tanpa itu aplikasi berjalan penuh secara lokal.
-
+3. Opsional awan: isi `VITE_SUPABASE_URL` dan `VITE_SUPABASE_ANON_KEY` (lihat `.env.example`) dan jalankan seluruh migrasi backend (repo [`KASwar_BE`](https://github.com/rizaa17/KASwar_BE)). Tanpa itu aplikasi berjalan penuh
 ## Dokumentasi
 
 Blueprint, spesifikasi WMS, panduan alur, setup, dan roadmap lengkap ada di [`docs/`](docs/README.md). Status Fase 1 ringkas ada di [`roadmap.md`](roadmap.md).
